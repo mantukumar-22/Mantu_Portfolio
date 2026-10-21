@@ -6,7 +6,7 @@ import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Skill from "./Pages/Skills";
 import Project from "./Pages/Project";
-import Login from "./pages/Login";
+import Login from "./Pages/Login";
 import SignUp from "./Pages/Signup";
 
 
