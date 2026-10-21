@@ -4,10 +4,10 @@ import Navbar from "./Components/Navbar";
 
 import Home from "./Pages/Home";
 import About from "./Pages/About";
-import Skill from "./pages/Skills";
+import Skill from "./Pages/Skills";
 import Project from "./Pages/Project";
 import Login from "./pages/Login";
-import SignUp from "./Pages/SignUp";
+import SignUp from "./Pages/Signup";
 
 
 const App = () => {

@@ -11,18 +11,18 @@ const Project = () => {
       tech: ["Node.js", "Express", "MongoDB"],
       icon: "🐾",
       color: "from-orange-400 to-red-500",
-      github: "https://github.com/",
+      github: "https://github.com/mantukumar-22/Animal_rescue_system",
       demo: "#",
     },
     {
       id: 2,
-      title: "Online Bookstore",
+      title: "E-commerce_TS",
       description:
         "An online bookstore backend with book management, user authentication, and order APIs.",
       tech: ["React.js", "Node.js", "MongoDB"],
       icon: "📚",
       color: "from-blue-400 to-indigo-600",
-      github: "https://github.com/",
+      github: "https://github.com/mantukumar-22/ecommerce_TS",
       demo: "#",
     },
     {
@@ -33,7 +33,7 @@ const Project = () => {
       tech: ["Node.js", "Express", "MongoDB"],
       icon: "🏦",
       color: "from-emerald-400 to-teal-600",
-      github: "https://github.com/",
+      github: "https://github.com/mantukumar-22/Banking_System",
       demo: "#",
     },
     {
@@ -44,7 +44,7 @@ const Project = () => {
       tech: ["React.js", "Node.js", "MongoDB"],
       icon: "🗳️",
       color: "from-purple-400 to-pink-600",
-      github: "https://github.com/",
+      github: "https://github.com/mantukumar-22/Voting_app",
       demo: "#",
     },
   ];
